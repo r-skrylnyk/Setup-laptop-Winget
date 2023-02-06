@@ -1,6 +1,6 @@
-mkdir c:\github
 winget install -e --id Git.Git --accept-package-agreements --accept-source-agreements
 winget install -e --id Google.Chrome
+winget install -e --id CodecGuide.K-LiteCodecPack.Full
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id Notepad++.Notepad++
 winget install -e --id Dropbox.Dropbox
@@ -17,3 +17,4 @@ winget install -e --id NickeManarin.ScreenToGif
 winget install -e --id Microsoft.RemoteDesktopClient
 winget install -e --id OBSProject.OBSStudio
 winget install -e --id Skillbrains.Lightshot
+winget install -e --id zokugun.MrCode
