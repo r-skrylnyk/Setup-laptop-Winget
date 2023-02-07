@@ -1,5 +1,6 @@
 winget install -e --id Git.Git --accept-package-agreements --accept-source-agreements
 winget install -e --id Google.Chrome
+winget install -e --id Apache.OpenOffice
 winget install -e --id CodecGuide.K-LiteCodecPack.Full
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id Notepad++.Notepad++
