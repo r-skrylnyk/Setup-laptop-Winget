@@ -19,4 +19,3 @@ winget install -e --id Microsoft.RemoteDesktopClient
 winget install -e --id OBSProject.OBSStudio
 winget install -e --id Skillbrains.Lightshot
 winget install -e --id zokugun.MrCode
-winget install -e --id=Notepad++.Notepad++ -v "undefined"
