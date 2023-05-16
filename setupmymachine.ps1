@@ -22,3 +22,4 @@ winget install -e --id zokugun.MrCode
 winget install -e --id=Zoom.Zoom
 winget install --id=Spotify.Spotify -v "1.2.11.916.geb595a67" -e
 winget install -e --id=Opera.OperaGX
+winget install --id=Ytmdesktop.Ytmdesktop  -e
