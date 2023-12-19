@@ -1,4 +1,5 @@
-winget install 
+winget install -e --id Git.Git --accept-package-agreements --accept-source-agreements
+winget install -e --id Google.Chrome
 
 dism /online /Enable-Feature /FeatureName:TelnetClient /NoRestart
 dism /online /Enable-Feature /all /NoRestart `
