@@ -24,3 +24,5 @@ winget install --id=Spotify.Spotify -v "1.2.11.916.geb595a67" -e
 winget install -e --id=Opera.OperaGX
 winget install -e --id=Ytmdesktop.Ytmdesktop
 winget install -e --id=OBSProject.OBSStudio
+#winget install --id=Microsoft.SQLServer.2022.Developer  -e
+# winget install -e --id Microsoft.Skype
