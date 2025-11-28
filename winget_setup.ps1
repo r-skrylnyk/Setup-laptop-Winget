@@ -1,7 +1,7 @@
 winget install -e --id Git.Git --accept-package-agreements --accept-source-agreements
 winget install -e --id Google.Chrome
-winget install -e --id Apache.OpenOffice
-winget install -e --id CodecGuide.K-LiteCodecPack.Full
+winget install -e --id TheDocumentFoundation.LibreOffice
+#winget install -e --id CodecGuide.K-LiteCodecPack.Full
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id Notepad++.Notepad++
 winget install -e --id Dropbox.Dropbox
@@ -17,13 +17,11 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id NickeManarin.ScreenToGif
 winget install -e --id Microsoft.RemoteDesktopClient
 winget install -e --id OBSProject.OBSStudio
-winget install -e --id Skillbrains.Lightshot
-winget install -e --id zokugun.MrCode
+#winget install -e --id Skillbrains.Lightshot
+#winget install -e --id zokugun.MrCode
 winget install -e --id=Zoom.Zoom
-winget install --id=Spotify.Spotify -v "1.2.11.916.geb595a67" -e
-winget install -e --id=Opera.OperaGX
 winget install -e --id=Ytmdesktop.Ytmdesktop
-winget install -e --id=OBSProject.OBSStudio
 winget install -e --id Microsoft.SQLServerManagementStudio
-#winget install --id=Microsoft.SQLServer.2022.Developer  -e
-# winget install -e --id Microsoft.Skype
+winget install -e --id Microsoft.VisualStudioCode
+#winget install -e --id=Microsoft.SQLServer.2022
+winget install --id=Microsoft.VisualStudio.Community -e
